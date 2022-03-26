@@ -14,7 +14,6 @@ Register here for the challenge: https://forms.gle/1EFyhFkno9zpvc2W8
 
 #DSA #DSACoding #faang #75DaysChallengeWithTM #LearnTogetherBuildTogether #techmaestrocommunity
 
-
 |Sr No|Day| Date|Problem Link|Solution Link|
 |-|-|-|-|-|
 |1|Day 1|24 March 2022|[Two Sum](https://leetcode.com/problems/two-sum/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2001/01.two_sum.cpp)|
