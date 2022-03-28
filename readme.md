@@ -32,3 +32,6 @@ Register here for the challenge: https://forms.gle/1EFyhFkno9zpvc2W8
 |14|Day 4|27 March 2022|[SubArray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2004/02.subarray_sum_equals_k.cpp)|
 |15|Day 4|27 March 2022|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2004/03.next_permutation.cpp)|
 |16|Day 4|27 March 2022|[Insert/Delete Get Randome](https://leetcode.com/problems/container-with-most-water/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2004/04.container_with_most_water.cpp)|
+|17|Day 5|28 March 2022|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2005/01.spiral_matrix.cpp)|
+|18|Day 5|28 March 2022|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2005/02.rotate_image.cpp)|
+|19|Day 5|28 March 2022|[Word Search](https://leetcode.com/problems/word-search/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2005/03.word_search.cpp)|
