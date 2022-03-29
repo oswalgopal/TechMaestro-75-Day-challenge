@@ -35,3 +35,7 @@ Register here for the challenge: https://forms.gle/1EFyhFkno9zpvc2W8
 |17|Day 5|28 March 2022|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2005/01.spiral_matrix.cpp)|
 |18|Day 5|28 March 2022|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2005/02.rotate_image.cpp)|
 |19|Day 5|28 March 2022|[Word Search](https://leetcode.com/problems/word-search/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2005/03.word_search.cpp)|
+|20|Day 6|29 March 2022|[Three Sum Closet](https://leetcode.com/problems/3sum-closest/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2006/01.three_sum_closet.cpp)|
+|21|Day 6|29 March 2022|[Game of Life](https://leetcode.com/problems/game-of-life/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2006/02.game_of_life.cpp)|
+|22|Day 6|29 March 2022|[Pair Divisble by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2006/03.pair_divisble_by_60.cpp)|
+|23|Day 6|29 March 2022|[4 Sum](https://leetcode.com/problems/4sum/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2006/04.4_sum.cpp)|
