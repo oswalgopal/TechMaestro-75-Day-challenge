@@ -39,3 +39,6 @@ Register here for the challenge: https://forms.gle/1EFyhFkno9zpvc2W8
 |21|Day 6|29 March 2022|[Game of Life](https://leetcode.com/problems/game-of-life/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2006/02.game_of_life.cpp)|
 |22|Day 6|29 March 2022|[Pair Divisble by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2006/03.pair_divisble_by_60.cpp)|
 |23|Day 6|29 March 2022|[4 Sum](https://leetcode.com/problems/4sum/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2006/04.4_sum.cpp)|
+|24|Day 7|30 March 2022|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2006/01.combination_sum.cpp)|
+|24|Day 7|30 March 2022|[Jump Game 2](https://leetcode.com/problems/jump-game-ii/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2006/02.jump_game_02.cpp)|
+|24|Day 7|30 March 2022|[Max Points Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2006/03.max_points_obtain_from_cards.cpp)|
