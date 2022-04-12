@@ -1,5 +1,4 @@
 // https://leetcode.com/problems/design-twitter/
-
 class Twitter {
 public:
     map<int, set<int>> followers;
