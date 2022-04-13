@@ -87,3 +87,5 @@ Register here for the challenge: https://forms.gle/1EFyhFkno9zpvc2W8
 |69|Day 21|13 April 2022|[Add Two Number 2](https://leetcode.com/problems/add-two-numbers-ii/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2021/02.add_two_number_2.cpp)|
 |70|Day 21|13 April 2022|[InterSection of Two LinkedLIst](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2021/03.intersection_of_two_linkedlist.cpp)|
 |71|Day 21|13 April 2022|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2021/04.palindrome_linkedlist.cpp)|
+
+
