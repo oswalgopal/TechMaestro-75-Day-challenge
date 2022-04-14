@@ -87,5 +87,6 @@ Register here for the challenge: https://forms.gle/1EFyhFkno9zpvc2W8
 |69|Day 21|13 April 2022|[Add Two Number 2](https://leetcode.com/problems/add-two-numbers-ii/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2021/02.add_two_number_2.cpp)|
 |70|Day 21|13 April 2022|[InterSection of Two LinkedLIst](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2021/03.intersection_of_two_linkedlist.cpp)|
 |71|Day 21|13 April 2022|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2021/04.palindrome_linkedlist.cpp)|
-
-
+|72|Day 22|14 April 2022|[Reverse Nodes in K Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2022/01.reverse_nodes_in_k_pairs.cpp)|
+|73|Day 22|14 April 2022|[Linkedlist Cycle 2](https://leetcode.com/problems/linked-list-cycle-ii/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2022/02.linkedlist_cycle_2.cpp)|
+|74|Day 22|14 April 2022|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2022/03.rotate_list.cpp)|
