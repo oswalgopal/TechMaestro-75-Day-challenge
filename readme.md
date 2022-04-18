@@ -101,3 +101,6 @@ Register here for the challenge: https://forms.gle/1EFyhFkno9zpvc2W8
 |84|Day 25|17 April 2022|[Min Stack](https://leetcode.com/problems/min-stack/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2025/02.min_stack.cpp)|
 |85|Day 25|17 April 2022|[Help Classmates](https://practice.geeksforgeeks.org/problems/fab3dbbdce746976ba35c7b9b24afde40eae5a04/1/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2025/03.helping_classmates.cpp)|
 |86|Day 25|17 April 2022|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2025/04.lru_cache.cpp)|
+|87|Day 26|18 April 2022|[Largest Area in Historgram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2026/01.largest_area_in_histogram.cpp)|
+|88|Day 26|18 April 2022|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2026/02.sliding_window_maximum.cpp)|
+|89|Day 26|18 April 2022|[LFU Cache](https://leetcode.com/problems/lfu-cache/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2026/03.lfu_cache.cpp)|
