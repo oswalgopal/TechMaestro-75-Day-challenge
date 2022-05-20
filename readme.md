@@ -152,3 +152,12 @@ Register here for the challenge: https://forms.gle/1EFyhFkno9zpvc2W8
 |135|Day 38|30 April 2022|[Nearly Sorted Algo](https://www.geeksforgeeks.org/nearly-sorted-algorithm/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2038/02.nearly_sorted_algo.cpp)|
 |136|Day 38|30 April 2022|[Median in Large Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2038/03.median_in_large_stream.cpp)|
 |137|Day 38|30 April 2022|[Kth Largest Element in Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2038/04.kth_largest_element_in_array.cpp)|
+|138|Day 39|19 May 2022|[Merge K sorted List](https://leetcode.com/problems/merge-k-sorted-lists/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2039/01.merge_k_sorted_list.cpp)|
+|139|Day 39|19 May 2022|[SkyLine Problem](https://leetcode.com/problems/the-skyline-problem/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2039/02.skyline_problem.cpp)|
+|140|Day 39|19 May 2022|[Kth Largest Element in Array](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2039/03.top_k_freq_element.cpp)|
+
+
+
+
+|--|Day 47|9 May 2022|[DP](https://www.geeksforgeeks.org/dynamic-programming/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2047/01.dp.cpp)|
+|--|Day 47|9 May 2022|[DP II](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2047/02.dp_2.cpp)|
