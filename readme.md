@@ -52,7 +52,7 @@ Register here for the challenge: https://forms.gle/1EFyhFkno9zpvc2W8
 |34|Day 10|2 April 2022|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2010/01.best_time_to_buy_and_sell_stock.cpp)|
 |35|Day 10|2 April 2022|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2010/02.first_missing_positive.cpp)|
 |36|Day 10|2 April 2022|[Largest Rectangle in Historgram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2010/03.largest_rectangle_in_histogram.cpp)|
-|37|Day 11|3 April 2022|[Insert/Delete and get Random O(1) with duplicates](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2011/03.largest_rectangle_in_histogram.cpp)|
+|37|Day 11|3 April 2022|[Insert/Delete and get Random O(1) with duplicates](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2011/01.insert_and_delete_get_random_duplicates.cpp)|
 |38|Day 11|3 April 2022|[Max Value of equation](https://leetcode.com/problems/max-value-of-equation/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2011/03.largest_rectangle_in_histogram.cpp)|
 |39|Day 12|4 April 2022|[Partition Lables](https://leetcode.com/problems/partition-labels/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2012/01.partion_label.cpp)|
 |40|Day 12|4 April 2022|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2012/02.sort_colors.cpp)|
@@ -155,9 +155,16 @@ Register here for the challenge: https://forms.gle/1EFyhFkno9zpvc2W8
 |138|Day 39|19 May 2022|[Merge K sorted List](https://leetcode.com/problems/merge-k-sorted-lists/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2039/01.merge_k_sorted_list.cpp)|
 |139|Day 39|19 May 2022|[SkyLine Problem](https://leetcode.com/problems/the-skyline-problem/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2039/02.skyline_problem.cpp)|
 |140|Day 39|19 May 2022|[Kth Largest Element in Array](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2039/03.top_k_freq_element.cpp)|
+|141|Day 40|19 May 2022|[Kth Largest Element in Array](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2039/03.top_k_freq_element.cpp)|
+|142|Day 40|19 May 2022|[Kth Largest Element in Array](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2039/03.top_k_freq_element.cpp)|
+|142|Day 40|19 May 2022|[Kth Largest Element in Array](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2039/03.top_k_freq_element.cpp)|
+|143|Day 41|26 May 2022|[N meeting in One Room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2041/01.n_meeting_room.cpp)|
+|144|Day 41|26 May 2022|[Activity Selection Problem](https://practice.geeksforgeeks.org/problems/activity-selection-1587115620/1)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2041/02.activity_selection_problem.cpp)|
+|145|Day 41|26 May 2022|[Min No of Coins](https://practice.geeksforgeeks.org/problems/-minimum-number-of-coins4426/1/#)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2041/03.min_no_coins.cpp)|
 
 
 
 
-|--|Day 47|9 May 2022|[DP](https://www.geeksforgeeks.org/dynamic-programming/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2047/01.dp.cpp)|
-|--|Day 47|9 May 2022|[DP II](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2047/02.dp_2.cpp)|
+
+<!-- |--|Day 47|9 May 2022|[DP](https://www.geeksforgeeks.org/dynamic-programming/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2047/01.dp.cpp)|
+|--|Day 47|9 May 2022|[DP II](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2047/02.dp_2.cpp)| -->
