@@ -161,6 +161,7 @@ Register here for the challenge: https://forms.gle/1EFyhFkno9zpvc2W8
 |143|Day 41|26 May 2022|[N meeting in One Room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2041/01.n_meeting_room.cpp)|
 |144|Day 41|26 May 2022|[Activity Selection Problem](https://practice.geeksforgeeks.org/problems/activity-selection-1587115620/1)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2041/02.activity_selection_problem.cpp)|
 |145|Day 41|26 May 2022|[Min No of Coins](https://practice.geeksforgeeks.org/problems/-minimum-number-of-coins4426/1/#)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2041/03.min_no_coins.cpp)|
+|146|Day 42|27 May 2022|[Fractional KnapSack](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2042/01.fractional_knapsack.cpp)|
 
 
 
