@@ -162,6 +162,8 @@ Register here for the challenge: https://forms.gle/1EFyhFkno9zpvc2W8
 |144|Day 41|26 May 2022|[Activity Selection Problem](https://practice.geeksforgeeks.org/problems/activity-selection-1587115620/1)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2041/02.activity_selection_problem.cpp)|
 |145|Day 41|26 May 2022|[Min No of Coins](https://practice.geeksforgeeks.org/problems/-minimum-number-of-coins4426/1/#)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2041/03.min_no_coins.cpp)|
 |146|Day 42|27 May 2022|[Fractional KnapSack](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2042/01.fractional_knapsack.cpp)|
+|147|Day 42|27 May 2022|[Min No of Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2042/02.min_no_of_platforms.cpp)|
+|148|Day 42|27 May 2022|[Job Sequencing Problem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2042/03.job_sequencing_problem.cpp)|
 
 
 
