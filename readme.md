@@ -164,6 +164,9 @@ Register here for the challenge: https://forms.gle/1EFyhFkno9zpvc2W8
 |146|Day 42|27 May 2022|[Fractional KnapSack](https://practice.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2042/01.fractional_knapsack.cpp)|
 |147|Day 42|27 May 2022|[Min No of Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2042/02.min_no_of_platforms.cpp)|
 |148|Day 42|27 May 2022|[Job Sequencing Problem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2042/03.job_sequencing_problem.cpp)|
+|149|Day 43|30 May 2022|[Rat in Maze](https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2043/01.rat_in_maze.cpp)|
+|150|Day 43|30 May 2022|[Knight Tour Problem](https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2043/02.knight_tour_problem.cpp)|
+|151|Day 43|30 May 2022|[Subset Sum](https://www.geeksforgeeks.org/subset-sum-backtracking-4/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2043/03.subset_sum.cpp)|
 
 
 
