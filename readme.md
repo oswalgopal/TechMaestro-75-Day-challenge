@@ -167,6 +167,14 @@ Register here for the challenge: https://forms.gle/1EFyhFkno9zpvc2W8
 |149|Day 43|30 May 2022|[Rat in Maze](https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2043/01.rat_in_maze.cpp)|
 |150|Day 43|30 May 2022|[Knight Tour Problem](https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2043/02.knight_tour_problem.cpp)|
 |151|Day 43|30 May 2022|[Subset Sum](https://www.geeksforgeeks.org/subset-sum-backtracking-4/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2043/03.subset_sum.cpp)|
+|152|Day 44|31 May 2022|[Letter Combination](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2044/01.letter_combination.cpp)|
+|153|Day 44|31 May 2022|[Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2044/02.generate_parenthesis.cpp)|
+|154|Day 44|31 May 2022|[Sudoku Solver](https://practice.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/1/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2044/03.sudoku_solver.cpp)|
+|154|Day 44|31 May 2022|[Sudoku Solver 2](https://leetcode.com/problems/sudoku-solver/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2044/04.sudoku_solver_2.cpp)|
+|155|Day 45|1 June 2022|[Permutation](https://leetcode.com/problems/permutations/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2045/01.permutation.cpp)|
+|156|Day 45|1 June 2022|[Combination](https://leetcode.com/problems/combinations/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2045/02.combination.cpp)|
+|157|Day 45|1 June 2022|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2045/03.combination_sum.cpp)|
+|158|Day 45|1 June 2022|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2045/04.combination_sum_2.cpp)|
 
 
 
