@@ -175,6 +175,10 @@ Register here for the challenge: https://forms.gle/1EFyhFkno9zpvc2W8
 |156|Day 45|1 June 2022|[Combination](https://leetcode.com/problems/combinations/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2045/02.combination.cpp)|
 |157|Day 45|1 June 2022|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2045/03.combination_sum.cpp)|
 |158|Day 45|1 June 2022|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2045/04.combination_sum_2.cpp)|
+|159|Day 46|6 June 2022|[N Queen Problem](https://www.geeksforgeeks.org/n-queen-problem-backtracking-3/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2046/01.n_queen_problem.cpp)|
+|160|Day 46|6 June 2022|[Subsets](https://leetcode.com/problems/subsets/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2046/02.subsets.cpp)|
+|161|Day 46|6 June 2022|[Gray Code](https://leetcode.com/problems/gray-code/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2046/03.gray_code.cpp)|
+|162|Day 46|6 June 2022|[Unique BST 2](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2046/04.unique_bst_2.cpp)|
 
 
 
