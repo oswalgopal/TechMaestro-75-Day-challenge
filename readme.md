@@ -179,10 +179,7 @@ Register here for the challenge: https://forms.gle/1EFyhFkno9zpvc2W8
 |160|Day 46|6 June 2022|[Subsets](https://leetcode.com/problems/subsets/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2046/02.subsets.cpp)|
 |161|Day 46|6 June 2022|[Gray Code](https://leetcode.com/problems/gray-code/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2046/03.gray_code.cpp)|
 |162|Day 46|6 June 2022|[Unique BST 2](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2046/04.unique_bst_2.cpp)|
-
-
-
-
-
-<!-- |--|Day 47|9 May 2022|[DP](https://www.geeksforgeeks.org/dynamic-programming/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2047/01.dp.cpp)|
-|--|Day 47|9 May 2022|[DP II](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2047/02.dp_2.cpp)| -->
+|163|Day 47|7 June 2022|[DP](https://www.geeksforgeeks.org/dynamic-programming/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2047/01.dp.cpp)|
+|164|Day 47|7 June 2022|[DP II](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2047/02.dp_2.cpp)|
+|165|Day 47|7 June 2022|[DP III](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2047/03.dp_4.cpp)|
+|166|Day 47|7 June 2022|[DP IV](https://leetcode.com/discuss/general-discussion/662866/Dynamic-Programming-for-Practice-Problems-Patterns-and-Sample-Solutions)|[Solution](https://github.com/oswalgopal/TechMaestro-75-Day-challenge/blob/master/Day%2047/04.dp_4.cpp)|
